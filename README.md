@@ -6,6 +6,7 @@ Atualmente, o bot conta com:
 
 - Operações FDM de desativação/reativação de condutores e veículos através do ID, ID de corporação ou placa;
 - Unificação FDM de condutores idênticos;
+- Atualização FDM;
 - Troca de corporação automática no FDM;
 - Relatórios automáticos;
 - Extração/Tratamento/Deploy de dados;
