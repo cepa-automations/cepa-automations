@@ -24,4 +24,4 @@ Atualmente, o bot conta com:
 - **Controle de versão:** Git;
 - **Visualização de dados:** Data Studio, Excel, Power BI e Power Point;
 - **Elaboração de páginas:** HTML, CSS e Js;
-- **Execução de script e gestão de arquivos:** PowerShell, Bash, sys e os.
+- **Execução de script e gestão de arquivos:** PowerShell, Bash, Module sys | os.
