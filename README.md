@@ -3,21 +3,30 @@
 O **Robo Ed** tem como objetivo automatizar e otimizar uma variedade de processos na empresa CEPA Mobility.
 
 Atualmente, o bot conta com:
-
+**Operações FDM e Eletrônicos**:
 - Operações FDM de desativação/reativação de condutores e veículos através do ID, ID de corporação ou placa;
-- Unificação FDM de condutores idênticos;
-- Atualização FDM;
+- Unificação FDM de condutores idênticos, similares (por seleção);
+- Criação de eventos (Acidentes/multas) com classificações pré determinadas; 
+- Atualização de Frotas (Condutores e Veículos JJ EUA (Company Car) / JJ CANADÁ);
 - Troca de corporação automática no FDM;
-- Relatórios automáticos;
+- Relatórios automáticos (ADM e Mutual (eletrônicos));
 - Extração/Tratamento/Deploy de dados;
-- Troca de grupos Eletrônicos (DA);
-- Dashboards.
+- Troca de grupos Eletrônicos e login automático (DA);
+- OCR (Reconhecimento de arquivos scanneados e PDFs);
+- Dashboard; 
+- Treinamentos Bayer e Johnson;
+- Atualização das Convocações Calendly;
+  
+**Operações de dados**:
+- Detecção de palavras similares (FuzzyWuzzy);
+- Detecção de multas similates JJ;
+- Integrações Google Sheets/Google Looker Studio;
 
 **Stack Principal**: Python | PowerShell | Bash
 
 ## Tecnologias 🚀
 
-- **Scrapping e navegação automática:** Selenium
+- **Scrapping e navegação automática:** Selenium, Pyautogui
 - **IDEs:** Google Colab, Jupyter Notebooks e Visual Studio Code;
 - **Tratamento de dados:** Pandas, NumPy, Google Sheets e Excel;
 - **Extração de dados e armazenamento:** Google Drive, Github, Google Cloud Services API;
