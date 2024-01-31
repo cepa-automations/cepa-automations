@@ -6,6 +6,7 @@ Atualmente, o bot conta com:
 **Operações FDM e Eletrônicos**:
 - Operações FDM de desativação/reativação de condutores e veículos através do ID, ID de corporação ou placa;
 - Unificação FDM de condutores idênticos, similares (por seleção);
+- Criação de Corporação e entidade FDM (implementação);
 - Criação de eventos (Acidentes/multas) com classificações pré determinadas; 
 - Atualização de Frotas (Condutores e Veículos JJ EUA (Company Car) / JJ CANADÁ);
 - Troca de corporação automática no FDM;
@@ -21,6 +22,8 @@ Atualmente, o bot conta com:
 - Detecção de palavras similares (FuzzyWuzzy);
 - Detecção de multas similates JJ;
 - Integrações Google Sheets/Google Looker Studio;
+- Integrações Google Drive e Google Colab;
+
 
 **Stack Principal**: Python | PowerShell | Bash
 
